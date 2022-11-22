@@ -1,4 +1,4 @@
-# Computational Platforms Comparison
+# Computational Platforms xSketchbook
 
 Contact: Simon Worthington, [@mrchristian GITHUB](https://github.com/mrchristian). NFDI4Culture, @OSL_TIB.
 
