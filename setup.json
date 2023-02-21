@@ -1,6 +1,6 @@
 {
   "__comment": "Set values to false if no link should be created.",
-  "repoURL": "https://github.com/NFDI4Culture/computational-publishing-xsketchbook/",
+  "repoURL": "https://github.com/NFDI4Culture/computational-publishing-for-culture-documentation/",
   "repoBranch": "main",
   "vivlioURL": "https://vivliostyle.org/viewer/"
 }
