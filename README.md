@@ -1,4 +1,4 @@
-# Computational Platforms xSketchbook
+# Computational Publishing for Culture Documentation
 
 Contact: Simon Worthington, [@mrchristian GITHUB](https://github.com/mrchristian). NFDI4Culture, @OSL_TIB.
 
