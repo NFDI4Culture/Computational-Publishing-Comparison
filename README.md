@@ -30,9 +30,9 @@ Presentation of CdBB content based on LOD work by NFDI4Culture @Team_TIB __['Sem
 
 ## Copyright and licencing
 
-Content - © 2020-22 The authors. Creative Commons Attribution-ShareAlike 4.0 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+Content - © 2020-23 The authors. Creative Commons Attribution-ShareAlike 4.0 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Code - ADA Semantic Publishing Pipeline, © 2020-22 The authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA/blob/master/LICENSE | Source https://github.com/TIBHannover/ADA
+Code - ADA Semantic Publishing Pipeline, © 2020-23 The authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA/blob/master/LICENSE | Source https://github.com/TIBHannover/ADA
 
 Data - All data and data sets produced would be CC 0, Public Domain, https://creativecommons.org/publicdomain/zero/1.0/
 
@@ -42,4 +42,4 @@ FAIR principles would also be applied https://www.go-fair.org/fair-principles/
 
 All third party content and code is the copyright of the authors and under their respective OSI compliant open licenses for code and compliant with Creative Commons Attribution-ShareAlike 4.0 International for content.
 
-Publication layout design style based on CSS Template from Interpunct – full stack graphic design, [Interpunct.dev](https://interpunct.dev/). GNU General Public License ([GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)).
+Publication layout design style ([GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)).
